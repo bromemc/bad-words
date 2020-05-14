@@ -1,0 +1,24 @@
+{
+  "name": "bad-words",
+  "description": "A cool list of bad words",
+  "version": "1.0.0",
+  "author": "BromeMC Krew",
+  "bugs": {
+    "url": "https://github.com/bromemc/bad-words/issues"
+  },
+  "devDependencies": {
+    "tap": "^0.4.13"
+  },
+  "homepage": "https://github.com/bromemc/bad-words",
+  "license": "ISC",
+  "main": "badwords.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bromemc/bad-words"
+  },
+  "scripts": {
+    "prepublish": "npm test",
+    "pretest": "node build.js",
+    "test": "tap test"
+  }
+}

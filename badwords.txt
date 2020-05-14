@@ -1,0 +1,15 @@
+arse
+asshole
+bastard
+bollocks
+bugger
+child-fucker
+cunt
+fuck
+horseshit
+pd
+#
+# please don't add your badwords down here!
+# insert them in alphabetical order to help reduce merge conflicts.
+#
+# <3
